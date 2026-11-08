@@ -41,3 +41,4 @@ Beijing - Unsplash - https://source.unsplash.com/800x600/?Beijing%20city
 Beijing - Wikimedia - https://commons.wikimedia.org/wiki/File:Sunset_of_the_Forbidden_City_2006.JPG
 Beijing - Wikimedia - https://commons.wikimedia.org/wiki/File:The_Great_Wall_Hotel_Beijing_(20240306151953).jpg
 Beijing - Wikimedia - https://commons.wikimedia.org/wiki/File:Peking_Confucius_Tempel-20071022-RM-092337.jpg
+Beijing - Wikimedia - https://commons.wikimedia.org/wiki/File:Beijing_Financial_Street_(overlook).jpg
