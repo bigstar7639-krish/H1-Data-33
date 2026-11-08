@@ -10,3 +10,6 @@ A: Russian Federation - Geography
 Auto Quiz - Chennai 🧠
 Q: Which operation in "Tom Clancy's Rainbow Six Siege" introduced the "Skyscraper" map?
 A: Red Crow - Entertainment: Video Games
+Auto Quiz - Madurai 🧠
+Q: In the original "Super Mario Bros.", what is the acceleration of Mario if he was in free fall?
+A: 91.28 m/s^2 - Entertainment: Video Games
