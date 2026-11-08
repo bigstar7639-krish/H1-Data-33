@@ -4,3 +4,6 @@ A: Minalinsky - Entertainment: Japanese Anime & Manga
 Auto Quiz - Village 🧠
 Q: Which mathematician refused the Fields Medal?
 A: Grigori Perelman - Science: Mathematics
+Auto Quiz - City 🧠
+Q: What is the largest country in the world ?
+A: Russian Federation - Geography
