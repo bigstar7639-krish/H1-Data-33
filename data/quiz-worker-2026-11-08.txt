@@ -7,3 +7,6 @@ A: Grigori Perelman - Science: Mathematics
 Auto Quiz - City 🧠
 Q: What is the largest country in the world ?
 A: Russian Federation - Geography
+Auto Quiz - Chennai 🧠
+Q: Which operation in "Tom Clancy's Rainbow Six Siege" introduced the "Skyscraper" map?
+A: Red Crow - Entertainment: Video Games
