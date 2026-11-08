@@ -46,3 +46,6 @@ A: Holly Flax - Entertainment: Television
 Auto Quiz - Philosophy 🧠
 Q: What European country is not a part of the EU?
 A: Norway - Geography
+Auto Quiz - Economics 🧠
+Q: Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?
+A: Clipper Chip - Science: Computers
