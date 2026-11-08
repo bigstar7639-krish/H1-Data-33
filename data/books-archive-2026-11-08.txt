@@ -64,3 +64,4 @@ Economics - isbn_9780536824394 - Economics (Principles and Tools Custom Edition)
 Politics - politicscommunic0000unse_k3l7 - Politics and Communication
 Politics - genderamericanpo02edunse - Gender and American politics : women, men, and the political process
 Law - caribbeanlawreviewv05n01 - The Caribbean Law Review
+Law - bwb_Y0-DBX-608 - American Law Reports Annotated Second Series
